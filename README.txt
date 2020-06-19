@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+Theme downloaded from: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+Adapted by Angela Luo
 
-Theme Name: Folio
-Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This website is still a work in progress.
